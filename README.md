@@ -10,6 +10,7 @@ Source code for our paper "Top-K Contextual Bandits with Equity of Exposure" pub
 ## Paper
 If you use our code in your research, please remember to cite our paper:
 
+```BibTeX
     @inproceedings{JeunenRecSys2021_B,
       author = {Jeunen, Olivier and Goethals, Bart},
       title = {Top-K Contextual Bandits with Equity of Exposure},
