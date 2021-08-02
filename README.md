@@ -1,5 +1,5 @@
 # Top-K Contextual Bandits with Equity of Exposure
-Source code for our paper "Top-K Contextual Bandits with Equity of Exposure" published at RecSys 2021.
+Source code for [our paper "Top-K Contextual Bandits with Equity of Exposure" published at RecSys 2021](http://adrem.uantwerpen.be/bibrem/pubs/JeunenRecSys2021_B.pdf).
 
 
 ## Reproducibility
